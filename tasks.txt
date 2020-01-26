@@ -1,0 +1,30 @@
+Practice Website: http://weathershopper.pythonanywhere.com/
+
+Tasks:
+
+-- Start
+Shop for moisturizers if the weather is below 19 degrees.
+Shop for suncreens if the weather is above 34 degrees.
+
+-- Moisturizers
+Add two moisturizers to your cart.
+First, select the least expensive mositurizer that contains Aloe.
+For your second moisturizer, select the least expensive moisturizer
+that contains almond. Click on cart when you are done.
+
+-- Sunscreens
+Add two sunscreens to your cart.
+First, select the least expensive sunscreen that is SPF-50.
+For your second sunscreen, select the least expensive sunscreen that is SPF-30.
+Click on the cart when you are done.
+
+-- Cart
+Verify that the shopping cart looks correct.
+Then, fill out your payment details and submit the form.
+You can Google for 'Stripe test card numbers' to use valid cards.
+Note: The payment screen will error 5% of the time by design
+
+-- After payment
+Verify if the payment was successful.
+The app is setup so there is a 5% chance that your payment failed.
+
